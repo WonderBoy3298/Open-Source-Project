@@ -1704,10 +1704,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/ShubhamRaut280">
-                    <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
+                    <img src="https://avatars.githubusercontent.com/u/90504558?s=400&u=6f9b4138ffd135b4fb2a42f671514d8d759dd065&v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
                 </a>
+            </td>
+             <td align="center">
+                <a href="https://hamzaalaoui.com/">
+                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="HamzaALui"/>
+                    <br />
+                    <sub><b>Hamza Alaoui</b></sub>
+                </a> 
             </td>
         </tr>
     </tbody>
